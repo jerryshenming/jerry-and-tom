@@ -1,2 +1,2 @@
 # jerry-and-tom
-Jerry family prograam place
+Jerry family program place
